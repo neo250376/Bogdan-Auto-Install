@@ -13,3 +13,6 @@ To use the scripts, simply copy and paste the raw data into the automation box w
 Please remember to change the pool, wallet and other details. You can choose your CPU and GPU intensity settings in the script and also set which CPU optimization method you want. Currently GCP supports up to AVX512F however I have found the best performance to be AVX2.
 
 I have also used Cryptogone's miner reset routine so that if the miner crashes it will restart automatically, you can set this to "Off" if you prefer simply by editing the script when pasting into the GCP automation box.
+
+If you wish to donate towards my research and testing please feel free to donate ARO to the following address -
+65AkkjBs2arwbikYVDh3B57aeehzpVp9Xw69tgewj8y8stx9FjajNhxR5Y3D9vzjYGgPGzuXbf7xSKn1C2i2DxFY
