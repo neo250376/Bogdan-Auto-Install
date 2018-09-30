@@ -6,7 +6,7 @@ These scripts have been created by myself for those that would prefer to use jus
 
 They are designed to be run on Google Cloud Platform instances utilising the Nvidia Tesla V100 and P100 GPU's.
 
-There are 2 scripts, one for Ubuntu 16.04 and one for Ubuntu 18.04.
+There are 3 scripts, one for Ubuntu 16.04 and one for Ubuntu 18.04 and finally Bogdan_CPU which is purely for those wishing to utilise just CPU with cloud instances.
 
 To use the scripts, simply copy and paste the raw data into the automation box when creating your GCP instance.
 
