@@ -1,4 +1,4 @@
-# Bogdan-Auto-Install
+# Bogdan-Auto-Install-Important note, 20 Gb instances at least are needed!!!
 
 Auto install scripts for Bogdan's Arionum miner
 
