@@ -65,7 +65,7 @@ echo '#! /bin/bash
 # adjust -b & -t value as described in the README and FAQ
 worker="OvErLoDe"
 pool="http://arionum.rocks"
-wallet="65AkkjBs2arwbikYVDh3B57aeehzpVp9Xw69tgewj8y8stx9FjajNhxR5Y3D9vzjYGgPGzuXbf7xSKn1C2i2DxFY"
+wallet="WALLET_ADDRESS"
 cpuintensity="100"
 gpuintensitycblocks="0"
 gpuintensitygblocks="61"
