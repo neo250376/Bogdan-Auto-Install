@@ -17,4 +17,4 @@ I have also used Cryptogone's miner reset routine so that if the miner crashes i
 In all cases to access the miner, simply type "sudo tmux attach -t bogdan". To exit tmux and keep the instance running so it is safe to exit the VPS, simply press CTRL+B and then "d" on it's own, this will return you to the command line interface prompt.
 
 If you wish to donate towards my research and testing please feel free to donate ARO to the following address -
-65AkkjBs2arwbikYVDh3B57aeehzpVp9Xw69tgewj8y8stx9FjajNhxR5Y3D9vzjYGgPGzuXbf7xSKn1C2i2DxFY
+4cAKS6DE81sT3PfNcQBQwPa2NsfGRSP6WGqiQepXPjfTjZhrAWa77uHPb4nQbppetMTAEt9GiTjX9bHpC589FX3E
