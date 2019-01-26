@@ -3,13 +3,13 @@
 # Install dependencies
 
 sudo apt-get update -y
-sudo apt-get install ocl-icd-opencl-dev -y
 sudo apt-get install cmake -y
 sudo apt-get install gcc -y
 sudo apt-get install g++ -y
 sudo apt-get install git -y
 sudo apt-get install tmux -y
 sudo apt-get install nano -y
+sudo apt-get install ocl-icd-opencl-dev -y
 
 # Installation of Nvidia Driver v390
 
