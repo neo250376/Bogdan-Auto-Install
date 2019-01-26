@@ -62,7 +62,6 @@ make
 echo '#! /bin/bash
 
 # please change pool address, wallet address and worker ID to yours
-# adjust -b & -t value as described in the README and FAQ
 worker="OvErLoDe"
 pool="http://arionum.rocks"
 wallet="WALLET_ADDRESS"
